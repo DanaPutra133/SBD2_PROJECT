@@ -1,0 +1,1 @@
+Route::apiResource('barang', BarangController::class);
